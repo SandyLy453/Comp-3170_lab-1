@@ -6,10 +6,10 @@
 }
 
 .main {
-  margin: 4rem 10rem 4rem 10rem;
+  margin: 4rem 6rem 4rem 6rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  gap: 15vw;
   align-items: flex-start;
 }
 
@@ -27,7 +27,7 @@
   cursor: pointer;
   color: rgb(100, 100, 100);
   transition: color 0.3s ease;
-  width: 450px;
+  width: 350px;
   height: 50px;
   align-content: center;
   list-style: none;
