@@ -51,6 +51,10 @@
   background-color: rgb(235, 235, 235);
 }
 
+.album {
+  list-style: none;
+}
+
 .album[open] .album-title::after {
   content: "\2014";
 }
